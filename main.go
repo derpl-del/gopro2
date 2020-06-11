@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/derpl-del/gopro2/envcode/ctrcode"
+)
 
 func main() {
-	fmt.Println("test")
+	ctrcode.Funchandler()
 }
