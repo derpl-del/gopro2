@@ -1,0 +1,1325 @@
+##########LOGNEW##########
+2020-06-15 09:33:20.556052:HomePage
+###############
+2020-06-15 09:33:20.602100:result read : {"Pid":"202006120938-39","Tittle":"Sweet Baby Carrot","Pname":"Baby Carrot","Pprice":1000,"Pamount":100,"Pquality":"5","Pcategory":"Vegetable"}
+###############
+2020-06-15 09:33:20.615032:result read : {"Pid":"202006121620-03","Tittle":"Sweet Corn","Pname":"Corn","Pprice":5000,"Pamount":10,"Pquality":"Rare","Pcategory":"Vegetable"}
+###############
+2020-06-15 09:33:20.627997:result read : {"Pid":"202006121640-48","Tittle":"Sour Orange Mandarin","Pname":"Orange","Pprice":3000,"Pamount":30,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:33:20.642981:result read : {"Pid":"202006142234-58","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:33:20.656954:result read : {"Pid":"202006142235-33","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:33:20.727896:result read : {"Pid":"202006142236-23","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:33:20.742861:result read : {"Pid":"202006142236-32","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:33:20.756792:result read : {"Pid":"202006142236-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:33:20.771753:result read : {"Pid":"202006142236-47","Tittle":"","Pname":"","Pprice":0,"Pamount":0,"Pquality":"","Pcategory":""}
+###############
+2020-06-15 09:33:20.777737:{"ListProduct":[{"Pid":"202006120938-39","Tittle":"Sweet Baby Carrot","Pname":"Baby Carrot","Pprice":1000,"Pamount":100,"Pquality":"5","Pcategory":"Vegetable"},{"Pid":"202006121620-03","Tittle":"Sweet Corn","Pname":"Corn","Pprice":5000,"Pamount":10,"Pquality":"Rare","Pcategory":"Vegetable"},{"Pid":"202006121640-48","Tittle":"Sour Orange Mandarin","Pname":"Orange","Pprice":3000,"Pamount":30,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142234-58","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142235-33","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-23","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-32","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-47","Tittle":"","Pname":"","Pprice":0,"Pamount":0,"Pquality":"","Pcategory":""}]}
+###############
+2020-06-15 09:33:22.411910:ProductPage
+###############
+2020-06-15 09:33:42.707611:{"Pid":"202006150933-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:34:46.462622:ProductPage
+###############
+2020-06-15 09:34:49.916262:ProductPage
+###############
+2020-06-15 09:35:01.282603:{"Pid":"202006150935-01","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1400,"Pamount":100,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:35:02.477858:HomePage
+###############
+2020-06-15 09:35:02.492817:result read : {"Pid":"202006120938-39","Tittle":"Sweet Baby Carrot","Pname":"Baby Carrot","Pprice":1000,"Pamount":100,"Pquality":"5","Pcategory":"Vegetable"}
+###############
+2020-06-15 09:35:02.507787:result read : {"Pid":"202006121620-03","Tittle":"Sweet Corn","Pname":"Corn","Pprice":5000,"Pamount":10,"Pquality":"Rare","Pcategory":"Vegetable"}
+###############
+2020-06-15 09:35:02.520753:result read : {"Pid":"202006121640-48","Tittle":"Sour Orange Mandarin","Pname":"Orange","Pprice":3000,"Pamount":30,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:35:02.534392:result read : {"Pid":"202006142234-58","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:35:02.548426:result read : {"Pid":"202006142235-33","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:35:02.562388:result read : {"Pid":"202006142236-23","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:35:02.576755:result read : {"Pid":"202006142236-32","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:35:02.588597:result read : {"Pid":"202006142236-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:35:02.602560:result read : {"Pid":"202006142236-47","Tittle":"","Pname":"","Pprice":0,"Pamount":0,"Pquality":"","Pcategory":""}
+###############
+2020-06-15 09:35:02.611550:result read : {"Pid":"202006150933-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:35:02.617534:result read : {"Pid":"202006150935-01","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1400,"Pamount":100,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:35:02.625519:{"ListProduct":[{"Pid":"202006120938-39","Tittle":"Sweet Baby Carrot","Pname":"Baby Carrot","Pprice":1000,"Pamount":100,"Pquality":"5","Pcategory":"Vegetable"},{"Pid":"202006121620-03","Tittle":"Sweet Corn","Pname":"Corn","Pprice":5000,"Pamount":10,"Pquality":"Rare","Pcategory":"Vegetable"},{"Pid":"202006121640-48","Tittle":"Sour Orange Mandarin","Pname":"Orange","Pprice":3000,"Pamount":30,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142234-58","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142235-33","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-23","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-32","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006142236-47","Tittle":"","Pname":"","Pprice":0,"Pamount":0,"Pquality":"","Pcategory":""},{"Pid":"202006150933-42","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""},{"Pid":"202006150935-01","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1400,"Pamount":100,"Pquality":"Good","Pcategory":""}]}
+###############
+2020-06-15 09:36:12.287827:HomePage
+###############
+2020-06-15 09:36:12.296803:{"ListProduct":[]}
+###############
+2020-06-15 09:36:14.229615:ProductPage
+###############
+2020-06-15 09:36:34.237930:{"Pid":"202006150936-34","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:36:35.385995:HomePage
+###############
+2020-06-15 09:36:35.392976:result read : {"Pid":"202006150936-34","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:36:35.400980:{"ListProduct":[{"Pid":"202006150936-34","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}]}
+###############
+2020-06-15 09:37:29.224391:ProductPage
+###############
+2020-06-15 09:38:21.577742:HomePage
+###############
+2020-06-15 09:38:21.586729:{"ListProduct":[]}
+###############
+2020-06-15 09:38:22.695418:ProductPage
+###############
+2020-06-15 09:38:47.417991:{"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:38:48.564462:HomePage
+###############
+2020-06-15 09:38:48.572440:result read : {"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:38:48.581417:{"ListProduct":[{"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}]}
+###############
+2020-06-15 09:39:49.662948:HomePage
+###############
+2020-06-15 09:39:49.674901:result read : {"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:39:49.686005:{"ListProduct":[{"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}]}
+###############
+2020-06-15 09:41:32.492569:HomePage
+###############
+2020-06-15 09:41:32.501549:result read : {"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:41:32.511550:{"ListProduct":[{"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}]}
+###############
+2020-06-15 09:49:19.536491:ProductPage
+###############
+2020-06-15 09:49:32.173811:{"Pid":"202006150949-32","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:49:33.318482:HomePage
+###############
+2020-06-15 09:49:33.327459:result read : {"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:49:33.336436:result read : {"Pid":"202006150949-32","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:49:33.345127:{"ListProduct":[{"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""},{"Pid":"202006150949-32","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""}]}
+###############
+2020-06-15 09:50:42.933042:ProductPage
+###############
+2020-06-15 09:51:05.031846:{"Pid":"202006150951-05","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":300,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:51:06.169201:HomePage
+###############
+2020-06-15 09:51:06.180175:result read : {"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""}
+###############
+2020-06-15 09:51:06.188858:result read : {"Pid":"202006150949-32","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:51:06.197833:result read : {"Pid":"202006150951-05","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":300,"Pquality":"Good","Pcategory":""}
+###############
+2020-06-15 09:51:06.206810:{"ListProduct":[{"Pid":"202006150938-47","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":100,"Pquality":"Rare","Pcategory":""},{"Pid":"202006150949-32","Tittle":"Red Apple","Pname":"Baby Carrot","Pprice":1000,"Pamount":4,"Pquality":"Good","Pcategory":""},{"Pid":"202006150951-05","Tittle":"Red Apple","Pname":"Aple","Pprice":1000,"Pamount":300,"Pquality":"Good","Pcategory":""}]}
+###############
+2020-06-15 09:52:24.248844:HomePage
+###############
+2020-06-15 09:52:24.255827:{"ListProduct":[]}
+###############
+2020-06-15 09:52:25.073660:ProductPage
+###############
+2020-06-15 09:52:50.303495:{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:52:51.455273:HomePage
+###############
+2020-06-15 09:52:51.466244:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:52:51.474022:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:55:06.945640:HomePage
+###############
+2020-06-15 09:55:06.953688:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:55:06.960667:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:56:22.521934:HomePage
+###############
+2020-06-15 09:56:22.535897:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:56:22.548861:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:56:23.565656:HomePage
+###############
+2020-06-15 09:56:23.573631:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:56:23.583605:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:56:44.340641:HomePage
+###############
+2020-06-15 09:56:44.350646:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:56:44.357626:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:56:52.717809:HomePage
+###############
+2020-06-15 09:56:52.725787:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:56:52.736790:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:57:21.371640:HomePage
+###############
+2020-06-15 09:57:21.386601:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:57:21.411533:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:57:54.992093:HomePage
+###############
+2020-06-15 09:57:55.003078:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:57:55.011054:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:58:24.689298:HomePage
+###############
+2020-06-15 09:58:24.700223:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:58:24.712188:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:59:31.614771:HomePage
+###############
+2020-06-15 09:59:31.625743:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:59:31.634750:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 09:59:54.181892:HomePage
+###############
+2020-06-15 09:59:54.189868:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 09:59:54.199850:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:03:04.057002:HomePage
+###############
+2020-06-15 10:03:04.064969:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:03:04.073946:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:04:38.000753:HomePage
+###############
+2020-06-15 10:04:38.009728:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:04:38.019765:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:05:20.117770:HomePage
+###############
+2020-06-15 10:05:20.127743:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:05:20.137748:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:05:51.367652:HomePage
+###############
+2020-06-15 10:05:51.377624:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:05:51.387630:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:06:52.192764:HomePage
+###############
+2020-06-15 10:06:52.208722:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:06:52.217695:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:07:08.626010:HomePage
+###############
+2020-06-15 10:07:08.636108:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:07:08.645444:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:13:16.124809:HomePage
+###############
+2020-06-15 10:13:16.135779:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:13:16.142853:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:18:23.669924:HomePage
+###############
+2020-06-15 10:18:23.677934:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:18:23.685883:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:19:06.145640:HomePage
+###############
+2020-06-15 10:19:06.157608:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:19:06.164581:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:20:03.344263:HomePage
+###############
+2020-06-15 10:20:03.355236:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:20:03.365208:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:20:03.394814:template: main.html:83: function "width" not defined
+###############
+2020-06-15 10:20:22.410768:HomePage
+###############
+2020-06-15 10:20:22.423721:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:20:22.433693:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:54:53.443123:HomePage
+###############
+2020-06-15 10:54:53.458082:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:54:53.471048:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:55:24.558299:HomePage
+###############
+2020-06-15 10:55:24.571262:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:55:24.580241:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:55:24.608844:template: main.html:84:60: executing "main.html" at <.Pid>: can't evaluate field Pid in type strcode.AllProductData
+###############
+2020-06-15 10:57:38.804240:HomePage
+###############
+2020-06-15 10:57:38.816208:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:57:38.824215:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:57:56.141152:HomePage
+###############
+2020-06-15 10:57:56.153152:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:57:56.161100:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:59:13.707015:HomePage
+###############
+2020-06-15 10:59:13.720976:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:59:13.728286:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:59:13.764935:template: main.html:87:37: executing "main.html" at <.Title>: can't evaluate field Title in type strcode.ProductData
+###############
+2020-06-15 10:59:21.761998:HomePage
+###############
+2020-06-15 10:59:21.773014:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:59:21.780991:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 10:59:57.498729:HomePage
+###############
+2020-06-15 10:59:57.510696:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 10:59:57.521730:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}]}
+###############
+2020-06-15 11:00:46.891758:ProductPage
+###############
+2020-06-15 11:01:39.121995:{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 11:01:40.284665:HomePage
+###############
+2020-06-15 11:01:40.294694:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 11:01:40.302239:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 11:01:40.310219:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 11:01:50.569775:HomePage
+###############
+2020-06-15 11:01:50.582301:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 11:01:50.591276:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 11:01:50.600253:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 11:05:35.299011:HomePage
+###############
+2020-06-15 11:05:35.308982:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 11:05:35.317959:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 11:05:35.329927:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 11:05:41.768029:ProductPage
+###############
+2020-06-15 14:49:16.073131:HomePage
+###############
+2020-06-15 14:49:16.081137:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:49:16.093071:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:49:16.100083:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:49:22.496420:ProductPage
+###############
+2020-06-15 14:50:26.087645:{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:50:27.245918:HomePage
+###############
+2020-06-15 14:50:27.255891:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:50:27.265895:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:50:27.275870:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:50:27.283902:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:50:46.695778:ProductPage
+###############
+2020-06-15 14:52:38.272507:{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:52:39.471036:HomePage
+###############
+2020-06-15 14:52:39.482009:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:52:39.493990:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:52:39.507938:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:52:39.519905:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:52:39.528882:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:53:55.668730:HomePage
+###############
+2020-06-15 14:53:55.679701:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:53:55.688148:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:53:55.695718:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:53:55.704663:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:53:55.711675:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:54:17.995009:HomePage
+###############
+2020-06-15 14:54:18.003984:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:54:18.013681:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:18.020662:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:18.030638:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:18.037618:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:54:23.732439:HomePage
+###############
+2020-06-15 14:54:23.744405:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:54:23.752416:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:23.764355:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:23.777325:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:23.786293:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:54:28.145366:HomePage
+###############
+2020-06-15 14:54:28.154341:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:54:28.166309:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:28.178274:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:28.186281:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:28.198221:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:54:38.733360:HomePage
+###############
+2020-06-15 14:54:38.746327:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:54:38.754303:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:38.765274:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:38.772985:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:54:38.783955:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:55:31.002349:HomePage
+###############
+2020-06-15 14:55:31.014318:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:55:31.022452:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:31.033423:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:31.041402:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:31.051376:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:55:59.188331:HomePage
+###############
+2020-06-15 14:55:59.196310:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:55:59.205288:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:59.217254:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:59.225232:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:59.236205:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:55:59.243183:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:56:23.998148:HomePage
+###############
+2020-06-15 14:56:24.008166:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:56:24.017180:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:56:24.024156:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:56:24.033101:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:56:24.041022:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:56:24.050000:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:57:04.339787:HomePage
+###############
+2020-06-15 14:57:04.349792:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:57:04.359734:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:04.366737:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:04.374722:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:04.381705:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:04.390678:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:04.398630:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:57:47.471897:HomePage
+###############
+2020-06-15 14:57:47.491844:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:57:47.500818:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:47.511789:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:47.521765:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:47.529741:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:47.539717:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:47.546632:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:57:56.675822:HomePage
+###############
+2020-06-15 14:57:56.684799:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:57:56.695807:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:56.706790:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:56.717748:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:56.728751:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:56.737697:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:57:56.748698:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:59:06.954923:HomePage
+###############
+2020-06-15 14:59:06.965926:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:59:06.973903:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:06.983877:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:06.991823:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:07.002795:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:07.012769:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:07.020778:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:59:26.954671:HomePage
+###############
+2020-06-15 14:59:26.968648:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:59:26.983593:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:26.997554:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:27.008528:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:27.022003:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:27.033971:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:27.044955:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 14:59:49.135701:HomePage
+###############
+2020-06-15 14:59:49.145674:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 14:59:49.155649:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:49.172601:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:49.185567:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:49.194542:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:49.204517:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 14:59:49.212495:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:27:57.266785:HomePage
+###############
+2020-06-15 15:27:57.274763:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:27:57.284737:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:27:57.291718:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:27:57.301691:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:27:57.308673:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:27:57.318646:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:27:57.327636:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:28:03.475878:HomePage
+###############
+2020-06-15 15:28:03.555250:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:28:03.567911:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:28:03.575890:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:28:03.640888:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:28:03.651859:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:28:03.662848:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:28:03.669811:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:31:23.085925:HomePage
+###############
+2020-06-15 15:31:23.094901:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:31:23.102882:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:23.109895:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:23.117864:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:23.126840:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:23.133823:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:23.143806:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:31:29.797460:HomePage
+###############
+2020-06-15 15:31:29.805470:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:31:29.815415:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:29.823188:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:29.835173:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:29.845138:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:29.852757:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:31:29.862764:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:36:39.636582:HomePage
+###############
+2020-06-15 15:36:39.649547:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:36:39.657589:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:36:39.666567:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:36:39.673547:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:36:39.683521:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:36:39.691498:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:36:39.701472:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:37:57.559222:HomePage
+###############
+2020-06-15 15:37:57.568197:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:37:57.577175:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:37:57.587146:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:37:57.596121:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:37:57.605097:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:37:57.612079:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:37:57.621056:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:38:27.329468:HomePage
+###############
+2020-06-15 15:38:27.341439:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:38:27.349864:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:27.359980:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:27.366964:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:27.377935:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:27.386782:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:27.394750:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:38:45.074238:HomePage
+###############
+2020-06-15 15:38:45.084236:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:38:45.095479:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:45.107448:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:45.115427:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:45.125399:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:45.132501:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:38:45.143473:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:41:10.535813:HomePage
+###############
+2020-06-15 15:41:10.544789:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:41:10.553765:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:41:10.561745:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:41:10.570722:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:41:10.577701:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:41:10.586678:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:41:10.593658:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:42:12.152624:HomePage
+###############
+2020-06-15 15:42:12.165587:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:42:12.177620:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:12.190614:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:12.203345:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:12.213306:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:12.225275:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:12.232258:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:42:40.594927:HomePage
+###############
+2020-06-15 15:42:40.605899:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:42:40.615523:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:40.627357:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:40.634677:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:40.644651:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:40.654624:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:42:40.662604:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:43:51.412423:HomePage
+###############
+2020-06-15 15:43:51.420433:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:43:51.429411:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:43:51.438353:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:43:51.447330:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:43:51.454310:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:43:51.462946:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:43:51.470926:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:44:05.238262:HomePage
+###############
+2020-06-15 15:44:05.250237:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:44:05.261218:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:05.270213:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:05.280212:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:05.288164:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:05.299135:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:05.306222:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:44:10.640933:HomePage
+###############
+2020-06-15 15:44:10.652902:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:44:10.663905:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:10.672849:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:10.682857:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:10.690828:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:10.702806:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:10.713775:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:44:37.852569:HomePage
+###############
+2020-06-15 15:44:37.864538:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:44:37.872641:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:37.881620:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:37.889629:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:37.900675:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:37.908653:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:44:37.919624:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:45:06.908482:HomePage
+###############
+2020-06-15 15:45:06.919493:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:45:06.927482:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:45:06.937456:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:45:06.948446:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:45:06.956438:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:45:06.967374:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:45:06.974371:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:47:09.546267:HomePage
+###############
+2020-06-15 15:47:09.557258:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:47:09.566217:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:09.577184:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:09.585163:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:09.596642:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:09.608610:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:09.617588:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:47:51.738755:HomePage
+###############
+2020-06-15 15:47:51.750731:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:47:51.761700:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:51.769677:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:51.780676:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:51.788593:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:51.799558:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:51.806540:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 15:47:56.776547:HomePage
+###############
+2020-06-15 15:47:56.785523:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 15:47:56.793534:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:56.801580:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:56.810588:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:56.818537:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:56.829538:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 15:47:56.837484:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 17:53:11.638169:HomePage
+###############
+2020-06-15 17:53:11.656122:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 17:53:11.671129:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:53:11.685095:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:53:11.693072:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:53:11.702049:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:53:11.711025:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:53:11.719035:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 17:55:03.421893:HomePage
+###############
+2020-06-15 17:55:03.431869:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 17:55:03.441923:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:03.450902:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:03.460872:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:03.469214:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:03.478190:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:03.486169:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 17:55:18.766505:HomePage
+###############
+2020-06-15 17:55:18.777479:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 17:55:18.785486:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:18.793474:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:18.802521:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:18.811525:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:18.819509:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 17:55:18.828489:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}]}
+###############
+2020-06-15 18:13:12.300999:HomePage
+###############
+2020-06-15 18:13:12.310973:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:13:12.319951:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:12.327278:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:12.336254:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:12.344234:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:12.352212:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:12.359193:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h20m21.9994676s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h11m33.185987s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h22m46.2296598s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h16m9.8292546s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h20m34.0607559s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h17m22.805212s minute"}]}
+###############
+2020-06-15 18:13:37.535081:HomePage
+###############
+2020-06-15 18:13:37.545074:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:13:37.557073:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:37.569041:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:37.577051:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:37.588024:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:37.596936:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:13:37.609898:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h20m47.233569s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h11m58.4231093s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h23m11.4714231s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h16m35.0700518s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h20m59.3045452s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h17m48.0499364s minute"}]}
+###############
+2020-06-15 18:17:20.283474:HomePage
+###############
+2020-06-15 18:17:20.293479:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:17:20.310436:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:17:20.323401:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:17:20.334624:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:17:20.343597:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:17:20.355568:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:17:20.366554:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h24m29.9819732s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h15m41.1764726s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m54.2257833s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h20m17.8276249s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h24m42.060119s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m30.8085685s minute"}]}
+###############
+2020-06-15 18:18:47.564721:HomePage
+###############
+2020-06-15 18:18:47.577687:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:18:47.589655:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:47.600626:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:47.613590:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:47.626556:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:47.638646:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:47.651612:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h25m57.2651835s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h17m8.4556911s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h28m21.503008s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m45.1065909s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m9.3430773s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h22m58.0916465s minute"}]}
+###############
+2020-06-15 18:18:48.634207:HomePage
+###############
+2020-06-15 18:18:48.646174:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:18:48.657179:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:48.666121:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:48.679086:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:48.691054:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:48.705017:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:48.714993:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h25m58.3336745s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h17m9.5232158s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h28m22.5685026s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m46.1710891s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m10.407576s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h22m59.1580173s minute"}]}
+###############
+2020-06-15 18:18:49.396170:HomePage
+###############
+2020-06-15 18:18:49.412126:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:18:49.426602:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:49.443556:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:49.460509:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:49.479458:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:49.497411:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:49.514365:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h25m59.0996222s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h17m10.2926386s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h28m23.3459376s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m46.9535097s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m11.1959799s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h22m59.9504115s minute"}]}
+###############
+2020-06-15 18:18:50.241810:HomePage
+###############
+2020-06-15 18:18:50.249789:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:18:50.258764:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.267140:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.276115:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.289081:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.298057:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.309030:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h25m59.9382836s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h17m11.1248007s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h28m24.1685213s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m47.7691151s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m12.0056027s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h23m0.7510576s minute"}]}
+###############
+2020-06-15 18:18:50.827781:HomePage
+###############
+2020-06-15 18:18:50.837767:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:18:50.847726:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.860722:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.871665:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.882637:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.895627:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:50.909563:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h26m0.5262615s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h17m11.7137628s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h28m24.7631037s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m48.3636736s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m12.5981573s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h23m1.3486278s minute"}]}
+###############
+2020-06-15 18:18:51.398943:HomePage
+###############
+2020-06-15 18:18:51.409916:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:18:51.420885:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:51.430887:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:51.443825:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:51.454797:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:51.466764:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:18:51.481724:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h26m1.0974392s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h17m12.2849277s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h28m25.3332688s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h21m48.9368253s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h26m13.1703286s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h23m1.9187953s minute"}]}
+###############
+2020-06-15 18:20:02.560585:HomePage
+###############
+2020-06-15 18:20:02.595488:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:20:02.615435:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:02.637377:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:02.659333:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:02.676273:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:02.700214:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:02.720157:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 8h27m12.2839827s minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7h18m23.4804745s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h29m36.5387618s minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h23m0.1493265s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h27m24.3918064s minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3h24m13.1502168s minute"}]}
+###############
+2020-06-15 18:20:18.800429:HomePage
+###############
+2020-06-15 18:20:18.813394:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:20:18.823825:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:18.835821:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:18.848760:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:18.859743:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:18.871559:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:20:18.884526:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 507.47503147333333 minute"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 438.6614976916667 minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 209.87897004833334 minute"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 203.272362675 minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 207.67627108 minute"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 204.48874265 minute"}]}
+###############
+2020-06-15 18:25:10.617602:HomePage
+###############
+2020-06-15 18:25:10.629440:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:25:10.637418:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:25:10.647392:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:25:10.656371:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:25:10.666343:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:25:10.675319:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:25:10.684293:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3 hour"}]}
+###############
+2020-06-15 18:25:53.171523:ProductPage
+###############
+2020-06-15 18:26:15.223685:{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:26:16.423422:HomePage
+###############
+2020-06-15 18:26:16.435389:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:26:16.445364:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:16.455339:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:16.464312:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:16.474443:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:16.484420:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:16.492258:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:26:16.500245:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 0.02097669 minute"}]}
+###############
+2020-06-15 18:26:57.731686:HomePage
+###############
+2020-06-15 18:26:57.744649:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:26:57.753628:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:57.762602:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:57.771616:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:57.779498:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:57.788476:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:26:57.795455:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:26:57.804467:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:01.131924:HomePage
+###############
+2020-06-15 18:27:01.141898:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:01.149878:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.159852:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.167830:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.176904:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.183884:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.192831:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:01.199842:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:01.866927:HomePage
+###############
+2020-06-15 18:27:01.876900:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:01.885880:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.894853:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.903851:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.912855:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.921877:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:01.930854:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:01.939829:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 3 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:02.476982:HomePage
+###############
+2020-06-15 18:27:02.484992:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:02.494933:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:02.506047:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:02.515006:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:02.524979:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:02.534009:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:02.542983:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:02.550962:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:33.451009:HomePage
+###############
+2020-06-15 18:27:33.460981:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:33.468616:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:33.477565:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:33.484545:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:33.493531:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:33.500514:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:33.508492:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:33.516471:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:34.229655:HomePage
+###############
+2020-06-15 18:27:34.239629:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:34.249604:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:34.260381:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:34.269387:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:34.279333:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:34.287311:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:34.297282:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:34.308254:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:35.080522:HomePage
+###############
+2020-06-15 18:27:35.090432:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:35.099409:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.108384:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.116366:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.125339:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.134314:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.144288:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:35.152270:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:35.859395:HomePage
+###############
+2020-06-15 18:27:35.867373:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:35.876348:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.885322:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.893304:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.902279:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.911892:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:35.919868:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:35.929854:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:27:36.645421:HomePage
+###############
+2020-06-15 18:27:36.654389:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:27:36.663363:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:36.672341:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:36.681344:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:36.691291:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:36.700314:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:27:36.709307:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:27:36.717270:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"Last Update 9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"Last Update 1 minute"}]}
+###############
+2020-06-15 18:28:22.095865:HomePage
+###############
+2020-06-15 18:28:22.109585:result read : {"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit"}
+###############
+2020-06-15 18:28:22.119556:result read : {"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:28:22.127535:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:28:22.134518:result read : {"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:28:22.143492:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:28:22.150475:result read : {"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable"}
+###############
+2020-06-15 18:28:22.157457:result read : {"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":""}
+###############
+2020-06-15 18:28:22.165505:{"ListProduct":[{"Pid":"202006150952-50","Tittle":"Red Apple","Pname":"Apple","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Fruit","Ptime":"9 hour"},{"Pid":"202006151101-39","Tittle":"Sweet Corn","Pname":"Corn","Pprice":1400,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"7 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"4 hour"},{"Pid":"202006151450-26","Tittle":"Spinach Popeye","Pname":"Spinach","Pprice":3000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"4 hour"},{"Pid":"202006151452-38","Tittle":"Pakcoy no1","Pname":"Pakcoy","Pprice":1000,"Pamount":100,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"4 hour"},{"Pid":"202006151826-15","Tittle":"Pakcoy no2","Pname":"Pakcoy","Pprice":1000,"Pamount":50,"Pquality":"Good","Pcategory":"Vegetable","Ptime":"2 minute"}]}
+###############

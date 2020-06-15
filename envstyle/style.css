@@ -1,43 +1,37 @@
-#wrapper {
-  width:1000px;
-  height: 50px;
-  clear:both;
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff;
 }
-.div_package {
-  width:23%;
-  height: 100%;
-  background-color: aquamarine;
-  margin: 0 1% 0 1%;
-  float:left;
-}
-
-
-.wrapper_main{
-  margin: 0 auto;
-  width: 1000px;
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+.jumbotron p:last-child {
+  margin-bottom: 0;
 }
 
-li {
-  float: left;
+.jumbotron h1 {
+  font-weight: 300;
 }
 
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+.jumbotron .container {
+  max-width: 40rem;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.big-banner{
+  background-image: url('../envstyle/tomato.jpg');
 }

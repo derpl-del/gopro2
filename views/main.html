@@ -1,28 +1,118 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html lang="en">
 
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <link rel="stylesheet" type="text/css" href="envstyle/style.css" />
-    <title>Fresh From The Garden</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Jekyll v4.0.1">
+  <title>Album example · Bootstrap</title>
+
+  <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/album/">
+
+  <!-- Bootstrap core CSS -->
+  <link href="envstyle/assets/dist/css/bootstrap.css" rel="stylesheet">
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+  <!-- Custom styles for this template -->
+  <link href="envstyle/style.css" rel="stylesheet">
 </head>
 
 <body>
-    <div class="wrapper_main">
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/product">Product</a></li>
+  <header>
+    <div class="collapse bg-dark" id="navbarHeader">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 col-md-7 py-4">
+            <h4 class="text-white">About</h4>
+            <p class="text-muted">Fresh from the garden</p>
+          </div>
+          <div class="col-sm-4 offset-md-1 py-4">
+            <h4 class="text-white">Contact</h4>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-white">Follow on Twitter</a></li>
+              <li><a href="#" class="text-white">Like on Facebook</a></li>
+              <li><a href="#" class="text-white">Email me</a></li>
             </ul>
-        </nav>
-
-        <div id="wrapper">
-            <div class="div_package">first</div>
-            <div class="div_package">second</div>
-            <div class="div_package">third</div>
-            <div class="div_package">four</div>
+          </div>
         </div>
+      </div>
     </div>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+      <div class="container d-flex justify-content-between">
+        <a class="navbar-brand d-flex align-items-center">
+          <strong>Fresh From The Garden</strong>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader"
+          aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main role="main">
+
+    <section class="jumbotron text-center big-banner">
+      <div class="container">
+        <h1>Fresh From The Garden</h1>
+        <a href="/" class="btn btn-primary my-2">Home</a>
+        <a href="/product" class="btn btn-secondary my-2">Add Product</a>
+        </p>
+      </div>
+    </section>
+
+    <div class="album py-5 bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="card-columns">
+            {{range .ListProduct}}
+            <div class="card mb-4">
+              <img class="card-img-top" src="/dataimg/upload_{{.Pid}}_1.png" alt="Card image">
+              <div class="card-body">
+                <h4 class="card-title">{{.Tittle}}</h4>
+                <p class="card-text">{{.Pname}}</p>
+                <a href="#" class="btn btn-primary">See Profile</a>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">{{.Ptime}} ago</small>
+              </div>
+            </div> {{end}}
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <footer class="text-muted">
+    <div class="container">
+      <p class="float-right">
+        <a href="#">Back to top</a>
+      </p>
+    </div>
+  </footer>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="envstyle/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
+  <script src="envstyle/assets/dist/js/bootstrap.bundle.js"></script>
 </body>
 
 </html>
