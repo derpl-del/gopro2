@@ -15,6 +15,8 @@ func Funchandler() {
 	r.HandleFunc("/", pgcode.HomePage)
 	r.HandleFunc("/product", pgcode.ProductPage)
 	r.HandleFunc("/add_product", pgcode.AddProductPage)
+	r.HandleFunc("/buy_product", pgcode.BuyProduct)
+	r.HandleFunc("/buy_someproduct", pgcode.BuySomeProduct)
 	r.PathPrefix("/envstyle/").Handler(http.StripPrefix("/envstyle/", http.FileServer(http.Dir("envstyle"))))
 	r.PathPrefix("/dataimg/").Handler(http.StripPrefix("/dataimg/", http.FileServer(http.Dir("data_img"))))
 	fmt.Println("server started at localhost:9000")

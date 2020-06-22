@@ -79,22 +79,26 @@
     </section>
 
     <div class="album py-5 bg-light">
-      <div class="container">
+      <div class="container mt-5">
         <div class="row">
-          <div class="card-columns">
-            {{range .ListProduct}}
-            <div class="card mb-4">
-              <img class="card-img-top" src="/dataimg/upload_{{.Pid}}_1.png" alt="Card image">
+
+          {{range .ListProduct}}
+          <div class="col-md-4">
+            <div class="card mb-2 shadow-sm">
+              <img class="img-fluid" src="/dataimg/upload_{{.Pid}}_1.png" alt="Card image">
               <div class="card-body">
-                <h4 class="card-title">{{.Tittle}}</h4>
-                <p class="card-text">{{.Pname}}</p>
-                <a href="#" class="btn btn-primary">See Profile</a>
+                <div class="card-body">
+                  <h4 class="card-title">{{.Tittle}}</h4>
+                  <p class="card-text">{{.Pname}}</p>
+                  <a type="button" href="/buy_product?Pid={{.Pid}}" class="btn btn-sm btn-outline-secondary">BUY</a>
+                </div>
+                <div class="card-footer">
+                  <small class="text-muted">{{.Ptime}} ago</small>
+                </div>
               </div>
-              <div class="card-footer">
-                <small class="text-muted">{{.Ptime}} ago</small>
-              </div>
-            </div> {{end}}
-          </div>
+            </div>
+          </div>{{end}}
+
         </div>
       </div>
     </div>

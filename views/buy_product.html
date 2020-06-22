@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v4.0.1">
+    <title>Album example · Bootstrap</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/album/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="envstyle/assets/dist/css/bootstrap.css" rel="stylesheet">
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="envstyle/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <script src="envstyle/envcode.js">
+    </script>
+    <header>
+        <div class="collapse bg-dark" id="navbarHeader">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-md-7 py-4">
+                        <h4 class="text-white">About</h4>
+                        <p class="text-muted">Add some information about the album below, the author, or any other
+                            background
+                            context. Make it a few sentences long so folks can pick up some informative tidbits. Then,
+                            link them off
+                            to some social networking sites or contact information.</p>
+                    </div>
+                    <div class="col-sm-4 offset-md-1 py-4">
+                        <h4 class="text-white">Contact</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="#" class="text-white">Follow on Twitter</a></li>
+                            <li><a href="#" class="text-white">Like on Facebook</a></li>
+                            <li><a href="#" class="text-white">Email me</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar navbar-dark bg-dark shadow-sm">
+            <div class="container d-flex justify-content-between">
+                <a class="navbar-brand d-flex align-items-center">
+                    <strong>Fresh From The Garden</strong>
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader"
+                    aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main role="main">
+
+        <section class="jumbotron text-center big-banner">
+            <div class="container">
+                <h1>Fresh From The Garden</h1>
+                <a href="/" class="btn btn-primary my-2">Home</a>
+                <a href="/product" class="btn btn-secondary my-2">Add Product</a>
+                </p>
+            </div>
+        </section>
+
+        <div class="container pt-3">
+            <div class="row">
+                <div class="col border">
+                    <img class="img-fluid" src="/dataimg/upload_{{.Pid}}_1.png" alt="Card image">
+                </div>
+                <div class="col-8">
+                    <h1 id="name_tittle">{{.Tittle}}</h1>
+                    <div class="row">
+                        <div class="col-sm">Name</div>
+                        <div class="col-sm">Category</div>
+                        <div class="col-sm">Quality</div>
+                        <div class="col-sm">Price</div>
+                        <div class="col-sm">Amount</div>
+                    </div>
+                    <div class="row">
+                        <div id="name_product" class="col-sm">{{.Pname}}</div>
+                        <div id="category_product" class="col-sm">{{.Pcategory}}</div>
+                        <div id="quality_product" class="col-sm">{{.Pquality}}</div>
+                        <div id="price_product" class="col-sm">{{.Pprice}}</div>
+                        <div id="amount_product" class="col-sm">{{.Pamount}}</div>
+                    </div>
+                    <div class="row">
+                        <div class="col-2 pt-3">
+                            <form id="buy_product">
+                                <input type="number" class="form-control" id="amount_buy" name="amount_buy" required
+                                    min="1" max="{{.Pamount}}" value="1"></br>
+                                <button type="button" class="btn btn-primary" data-target="#BuyModal"
+                                    onclick="myFunction()">Buy</button>
+                            </form>
+                        </div>
+                        <div class="col pt-3"></div>
+                        <div class="col-1 pt-3"></div>
+                        <div class="modal fade" id="BuyModal" tabindex="-1" role="dialog"
+                            aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">Invoice</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <form id="trxid" value={{.Pid}} total={{.Pamount}}>
+                                            <div class="form-group">
+                                                <label for="tittle_name" class="col-form-label">Tittle :</label>
+                                                <input type="text" class="form-control" id="tittle_name" readonly>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="product_name" class="col-form-label">Product Name:</label>
+                                                <input type="text" class="form-control" id="product_name" readonly>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="product_category" class="col-form-label">Category :</label>
+                                                <input type="text" class="form-control" id="product_category" readonly>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="product_quality" class="col-form-label">Quality :</label>
+                                                <input type="text" class="form-control" id="product_quality" readonly>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="total_amount" class="col-form-label">Total Purchase:</label>
+                                                <input type="text" class="form-control" id="total_amount" readonly>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="total_pay" class="col-form-label">Total Pay:</label>
+                                                <input type="text" class="form-control" id="total_pay" readonly>
+                                            </div>
+                                            <div class="form-group">
+                                                <label for="message-text" class="col-form-label">Message:</label>
+                                                <textarea class="form-control" id="message-text"></textarea>
+                                            </div>
+                                        </form>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="submit" class="btn btn-secondary" data-dismiss="modal"
+                                            onclick="exitModel()">Close</button>
+                                        <button type="button" onclick="loadDoc()" class="btn btn-primary">Send
+                                            message</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <footer class="text-muted">
+        <div class="container">
+            <p class="float-right">
+                <a href="#">Back to top</a>
+            </p>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="envstyle/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
+    <script src="envstyle/assets/dist/js/bootstrap.bundle.js"></script>
+</body>
+
+</html>

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"html/template"
 	"io"
+	"io/ioutil"
 	"net/http"
 	"os"
 	"path"
@@ -98,4 +99,32 @@ func AddProductPage(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		logcode.LogE(err)
 	}
+}
+
+//BuyProduct page
+func BuyProduct(w http.ResponseWriter, r *http.Request) {
+	logcode.LogW("BuyProduct")
+	var pname1 = "product_" + r.FormValue("Pid") + ".json"
+	data := jscode.GetProductData(pname1)
+	var filepath = path.Join("views", "buy_product.html")
+	var tmpl, err = template.ParseFiles(filepath)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		logcode.LogE(err)
+		return
+	}
+	err = tmpl.Execute(w, data)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		logcode.LogE(err)
+	}
+}
+
+//BuySomeProduct page
+func BuySomeProduct(w http.ResponseWriter, r *http.Request) {
+	logcode.LogW("BuySomeProduct")
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string(reqBody))
+	buydata := jscode.BuyProductData(reqBody)
+	jscode.UpdateAmount(buydata.InPid, buydata.InAmount)
 }

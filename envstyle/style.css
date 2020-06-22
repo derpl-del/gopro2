@@ -33,5 +33,9 @@ footer p {
 }
 
 .big-banner{
-  background-image: url('../envstyle/tomato.jpg');
+  background-image: url('../envstyle/banana.jpg');
+}
+
+.container-new{
+  width: 300;
 }
