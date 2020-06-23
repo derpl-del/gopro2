@@ -53,3 +53,15 @@ function loadDoc() {
         xhr.send(data);
     }
 }
+
+function removeDoc() {
+    var xhttp = new XMLHttpRequest();
+    let url = "/logout";
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            location.href = "/"
+        }
+    };
+    xhttp.open("POST", url, true);
+    xhttp.send();
+}

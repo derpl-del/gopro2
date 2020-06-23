@@ -4,15 +4,20 @@ import (
 	"fmt"
 	"net/http"
 
+	"github.com/derpl-del/gopro2/envcode/logincode"
 	"github.com/derpl-del/gopro2/envcode/pgcode"
 	"github.com/gorilla/mux"
 )
 
 //Funchandler Controller
 func Funchandler() {
+	logincode.CreateStore()
 	fmt.Println("morning")
 	r := mux.NewRouter()
 	r.HandleFunc("/", pgcode.HomePage)
+	r.HandleFunc("/login", pgcode.LoginPage)
+	r.HandleFunc("/login_page", pgcode.LoginHandler).Methods("POST")
+	r.HandleFunc("/logout", pgcode.LogoutHandler).Methods("POST")
 	r.HandleFunc("/product", pgcode.ProductPage)
 	r.HandleFunc("/add_product", pgcode.AddProductPage)
 	r.HandleFunc("/buy_product", pgcode.BuyProduct)
