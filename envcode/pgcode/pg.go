@@ -12,6 +12,7 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/derpl-del/gopro2/envcode/dbcode"
 	"github.com/derpl-del/gopro2/envcode/dtacode"
 	"github.com/derpl-del/gopro2/envcode/imgcode"
 	"github.com/derpl-del/gopro2/envcode/jscode"
@@ -75,6 +76,7 @@ func ProductPage(w http.ResponseWriter, r *http.Request) {
 
 //AddProductPage page
 func AddProductPage(w http.ResponseWriter, r *http.Request) {
+	_, user := logincode.GetUserName(r, name)
 	currentTime := time.Now()
 	productid := currentTime.Format("200601021504-05")
 	createdate := currentTime.Format("2006-01-02 15:04:05")
@@ -87,7 +89,9 @@ func AddProductPage(w http.ResponseWriter, r *http.Request) {
 	price, _ := strconv.Atoi(pprice1)
 	amount, _ := strconv.Atoi(pamount1)
 	var Dproduct = strcode.ProductData{Pid: productid, Tittle: tittle1, Pname: pname1, Pprice: price, Pamount: amount, Pquality: pquality1, Pcategory: pcategory1, PCreateDate: createdate, PLastUpdate: createdate}
+	Dproduct.UsernameInfo.Username = user
 	jscode.MakeProductData(Dproduct)
+	dbcode.InsDataProduct(Dproduct.UsernameInfo.Username, Dproduct.Pid)
 	r.ParseMultipartForm(10 << 20)
 	file, handler, err1 := r.FormFile("myFile")
 	if err1 != nil {
@@ -144,15 +148,26 @@ func BuySomeProduct(w http.ResponseWriter, r *http.Request) {
 
 //LoginHandler fo login
 func LoginHandler(w http.ResponseWriter, r *http.Request) {
-	name := r.FormValue("username")
-	pass := r.FormValue("password")
-	redirectTarget := "/login"
-	if name != "" && pass != "" {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("LoginHandler"))
+	logcode.LogW(string(reqBody))
+	data := jscode.SignUpData(reqBody)
+	name := data.Username
+	pass := data.Password
+	result := dbcode.ValidationUserData(name, pass)
+	if result == true {
 		// .. check credentials ..
 		logincode.SetSession(name, w, r)
-		redirectTarget = "/"
+		dbcode.UpdateLoginData(data.Username)
 	}
-	http.Redirect(w, r, redirectTarget, 302)
+}
+
+//SignUpHandler fo login
+func SignUpHandler(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string(reqBody))
+	data := jscode.SignUpData(reqBody)
+	dbcode.InsData(data.Username, data.Password)
 }
 
 //LoginPage fo login
@@ -175,4 +190,111 @@ func LoginPage(w http.ResponseWriter, r *http.Request) {
 func LogoutHandler(w http.ResponseWriter, r *http.Request) {
 	logincode.ClearSession(w, r, "banana")
 	http.Redirect(w, r, "/", 302)
+}
+
+//UserLoginVal func
+func UserLoginVal(w http.ResponseWriter, r *http.Request) {
+	var Articles strcode.UserLoginInfo
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("UserLoginVal"))
+	logcode.LogW(string(reqBody))
+	data := jscode.SignUpData(reqBody)
+	result := dbcode.ValidationData("username", data.Username)
+	if result == true {
+		result = dbcode.ValidationUserData(data.Username, data.Password)
+		if result == true {
+			Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0000"}
+		} else {
+			Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0002"}
+		}
+	} else {
+		Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0001"}
+	}
+	out, _ := json.Marshal(Articles)
+	logcode.LogW(string(out))
+	json.NewEncoder(w).Encode(Articles)
+}
+
+//GetProductByID func
+func GetProductByID(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("GetProductByID"))
+	logcode.LogW(string(reqBody))
+	data := jscode.SignUpData(reqBody)
+	result := dbcode.QueryProductByID(data.Username)
+	ListProduct := []strcode.ProductData{}
+	for _, dataDB := range result {
+		tittle := "product_" + dataDB + ".json"
+		article := jscode.GetProductData(tittle)
+		ListProduct = append(ListProduct, article)
+	}
+	Product := strcode.AllProductData{ListProduct: ListProduct}
+	Product.UsernameInfo.Username = data.Username
+	json.NewEncoder(w).Encode(Product)
+}
+
+//ListProductPage fo login
+func ListProductPage(w http.ResponseWriter, r *http.Request) {
+	userName, user := logincode.GetUserName(r, name)
+	if userName == true {
+		result := dbcode.QueryProductByID(user)
+		ListProduct := []strcode.ProductData{}
+		for i, dataDB := range result {
+			tittle := "product_" + dataDB + ".json"
+			article := jscode.GetProductData(tittle)
+			article.No = i + 1
+			ListProduct = append(ListProduct, article)
+		}
+		Product := strcode.AllProductData{ListProduct: ListProduct}
+		Product.UsernameInfo.Username = user
+		var filepath = path.Join("views", "productlist.html")
+		var tmpl, err = template.ParseFiles(filepath)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+			return
+		}
+		err = tmpl.Execute(w, Product)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+		}
+	} else {
+		http.Redirect(w, r, "/login", 302)
+	}
+}
+
+//EditProduct page
+func EditProduct(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("GetProductByID"))
+	logcode.LogW(string(reqBody))
+	data := jscode.EditProductData(reqBody)
+	jscode.UpdateProduct(data)
+	response := strcode.Response{ErrorCode: "0000"}
+	json.NewEncoder(w).Encode(response)
+}
+
+//SignUpVal func
+func SignUpVal(w http.ResponseWriter, r *http.Request) {
+	var Articles strcode.UserLoginInfo
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("SignUpVal"))
+	logcode.LogW(string(reqBody))
+	data := jscode.SignUpData(reqBody)
+	result := dbcode.ValidationData("username", data.Username)
+	if result == false && len(data.Password) >= 6 && len(data.Username) >= 6 {
+		Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0000"}
+	} else if result == true {
+		Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0001"}
+	} else if len(data.Username) <= 6 {
+		Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0002"}
+	} else if len(data.Password) <= 6 {
+		Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0003"}
+	} else {
+		Articles = strcode.UserLoginInfo{Username: data.Username, Password: data.Password, Message: "0004"}
+	}
+	out, _ := json.Marshal(Articles)
+	logcode.LogW(string(out))
+	json.NewEncoder(w).Encode(Articles)
 }

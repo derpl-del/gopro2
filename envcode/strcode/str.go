@@ -8,6 +8,7 @@ type AllProductData struct {
 
 // ProductData for result.html
 type ProductData struct {
+	No           int
 	Pid          string
 	Tittle       string
 	Pname        string
@@ -32,7 +33,31 @@ type BuyProduct struct {
 	InQuality  string `json:"quality_in"`
 }
 
+//EditProduct for buysomeproduct
+type EditProduct struct {
+	InPid      string `json:"pid"`
+	InTittle   string `json:"tittle"`
+	InName     string `json:"name"`
+	InAmount   string `json:"amount"`
+	InPrice    string `json:"price"`
+	InCategory string `json:"category"`
+	InQuality  string `json:"quality"`
+}
+
 //UsernameInfo Data
 type UsernameInfo struct {
+	Username string `json:"username"`
+	Password string `json:"password"`
+}
+
+//Response Data
+type Response struct {
+	ErrorCode string `json:"ErrorCode"`
+}
+
+//UserLoginInfo Data
+type UserLoginInfo struct {
 	Username string
+	Password string
+	Message  string
 }

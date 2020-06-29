@@ -3,14 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Jekyll v4.0.1">
     <title>Fresh From The Garden</title>
-
     <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/album/">
-
     <!-- Bootstrap core CSS -->
     <link href="envstyle/assets/dist/css/bootstrap.css" rel="stylesheet">
 
@@ -35,6 +29,10 @@
 </head>
 
 <body>
+    <script src="envstyle/envcode.js"></script>
+    <script src="envstyle/jquery-3.5.1.js"></script>
+    <script src="envstyle/show.js">
+    </script>
     <header>
         <div class="collapse bg-dark" id="navbarHeader">
             <div class="container">
@@ -72,19 +70,48 @@
     </header>
 
     <main role="main">
-
         <section class="jumbotron text-center big-banner">
             <div class="container">
                 <h1>Fresh From The Garden</h1>
-                <a href="/" class="btn btn-primary my-2">Sign Up</a>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#SignPage">Sign
+                    Up</button>
             </div>
         </section>
+        <div id="SignPage" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Sign Up</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="notif-result-success"></div>
+                        <div class="form-group">
+                            <label for="UsernameIn">Username</label>
+                            <input type="text" class="form-control" id="UsernameIn" placeholder="Username" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="PasswordIn">Password</label>
+                            <input type="password" class="form-control" id="PasswordIn" placeholder="Password" required>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <button id="signup_send" type="button" class="btn btn-primary">Send</button>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="container pt-3">
             <div class="row">
                 <div class="col">
                 </div>
                 <div class="col-8">
-                    <form action="/login_page" method="post" enctype="multipart/form-data">
+                    <div id="notif-result"></div>
+                    <form id="login-form">
                         <div class="form-group">
                             <label for="tittle">username :</label>
                             <input type="text" class="form-control" id="username" name="username" required>
@@ -93,10 +120,11 @@
                             <label for="name">password :</label>
                             <input type="password" class="form-control" id="password" name="password" required>
                         </div>
-                        <button type="submit" class="btn btn-primary">Login</button>
                     </form>
+                    <button id="login_send" type="submit" class="btn btn-primary">Login</button>
                 </div>
                 <div class="col">
+
                 </div>
             </div>
 
@@ -110,9 +138,6 @@
             </p>
         </div>
     </footer>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-        crossorigin="anonymous"></script>
     <script>window.jQuery || document.write('<script src="envstyle/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
     <script src="envstyle/assets/dist/js/bootstrap.bundle.js"></script>
 </body>

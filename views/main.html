@@ -35,19 +35,28 @@
 </head>
 
 <body>
-  <script src="envstyle/envcode.js">
-  </script>
+  <script src="envstyle/envcode.js"></script>
+  <script src="envstyle/jquery-3.5.1.js"></script>
+  <script src="envstyle/show.js"></script>
   <header>
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container d-flex justify-content-between">
         <a class="navbar-brand d-flex align-items-center">
           <strong>Fresh From The Garden</strong>
         </a>
-
-        <button class="navbar-toggler" type="button" data-toggle="modal" data-target="#navbarModal"
-          aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">Hello
-          {{.UsernameInfo.Username}}
-        </button>
+        <div class="btn-group">
+          <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"
+            aria-expanded="false">
+            Hello
+            {{.UsernameInfo.Username}}
+          </button>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="/productlist">My Product</a>
+            <a class="dropdown-item" href="#">Something else here</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#" data-toggle="modal" data-target="#navbarModal">Logout</a>
+          </div>
+        </div>
       </div>
     </div>
     <div id="navbarModal" class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog"
@@ -115,9 +124,6 @@
       </p>
     </div>
   </footer>
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
-    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-    crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="envstyle/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
   <script src="envstyle/assets/dist/js/bootstrap.bundle.js"></script>
 </body>

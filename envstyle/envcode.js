@@ -65,3 +65,19 @@ function removeDoc() {
     xhttp.open("POST", url, true);
     xhttp.send();
 }
+
+function SendDoc() {
+    var username = document.getElementById("UsernameIn").value;
+    var password = document.getElementById("PasswordIn").value;
+    var xhttp = new XMLHttpRequest();
+    let url = "/signup_page";
+    xhttp.onreadystatechange = function () {
+        if (this.readyState == 4 && this.status == 200) {
+            location.href = "/login"
+        }
+    };
+    xhttp.open("POST", url, true);
+    xhttp.setRequestHeader("Content-Type", "application/json");
+    var data = JSON.stringify({ "username": username, "password": password });
+    xhttp.send(data);
+}

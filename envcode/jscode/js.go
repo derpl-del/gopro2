@@ -79,6 +79,27 @@ func BuyProductData(input []byte) strcode.BuyProduct {
 	return struct1
 }
 
+//EditProductData JSON
+func EditProductData(input []byte) strcode.EditProduct {
+	var struct1 strcode.EditProduct
+	json.Unmarshal(input, &struct1)
+	return struct1
+}
+
+//SignUpData JSON
+func SignUpData(input []byte) strcode.UsernameInfo {
+	var struct1 strcode.UsernameInfo
+	json.Unmarshal(input, &struct1)
+	return struct1
+}
+
+//UserInfoData JSON
+func UserInfoData(input []byte) strcode.UsernameInfo {
+	var struct1 strcode.UsernameInfo
+	json.Unmarshal(input, &struct1)
+	return struct1
+}
+
 //UpdateAmount JSON
 func UpdateAmount(pid string, amount string) {
 	currentTime := time.Now()
@@ -92,6 +113,23 @@ func UpdateAmount(pid string, amount string) {
 	if diff == 0 {
 		DeleteProductData(pid)
 	}
+}
+
+//UpdateProduct JSON
+func UpdateProduct(input strcode.EditProduct) {
+	currentTime := time.Now()
+	lastupdate := currentTime.Format("2006-01-02 15:04:05")
+	FileData := ReadFileJS(input.InPid)
+	FileData.PLastUpdate = lastupdate
+	FileData.Tittle = input.InTittle
+	FileData.Pname = input.InName
+	Pamount, _ := strconv.Atoi(input.InAmount)
+	FileData.Pamount = Pamount
+	FileData.Pcategory = input.InCategory
+	Pprice, _ := strconv.Atoi(input.InPrice)
+	FileData.Pprice = Pprice
+	FileData.Pquality = input.InQuality
+	MakeProductData(FileData)
 }
 
 //DeleteProductData JSON

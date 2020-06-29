@@ -20,8 +20,9 @@ func ReturnAllProduct() strcode.AllProductData {
 		fmt.Println(err)
 		logcode.LogE(err)
 	}
-	for _, info := range fileInfo {
+	for i, info := range fileInfo {
 		var article = jscode.GetProductData(info.Name())
+		article.No = i + 1
 		ListProduct = append(ListProduct, article)
 	}
 	Articles := strcode.AllProductData{ListProduct: ListProduct}
