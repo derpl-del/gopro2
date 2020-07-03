@@ -19,6 +19,8 @@ import (
 	"github.com/derpl-del/gopro2/envcode/logcode"
 	"github.com/derpl-del/gopro2/envcode/logincode"
 	"github.com/derpl-del/gopro2/envcode/strcode"
+	"github.com/derpl-del/gopro2/envcode/txtcode"
+	"github.com/gorilla/mux"
 )
 
 var name string
@@ -88,7 +90,7 @@ func AddProductPage(w http.ResponseWriter, r *http.Request) {
 	var pcategory1 = r.FormValue("category")
 	price, _ := strconv.Atoi(pprice1)
 	amount, _ := strconv.Atoi(pamount1)
-	var Dproduct = strcode.ProductData{Pid: productid, Tittle: tittle1, Pname: pname1, Pprice: price, Pamount: amount, Pquality: pquality1, Pcategory: pcategory1, PCreateDate: createdate, PLastUpdate: createdate}
+	var Dproduct = strcode.ProductData{Pid: productid, Powner: user, Tittle: tittle1, Pname: pname1, Pprice: price, Pamount: amount, Pquality: pquality1, Pcategory: pcategory1, PCreateDate: createdate, PLastUpdate: createdate}
 	Dproduct.UsernameInfo.Username = user
 	jscode.MakeProductData(Dproduct)
 	dbcode.InsDataProduct(Dproduct.UsernameInfo.Username, Dproduct.Pid)
@@ -139,11 +141,17 @@ func BuyProduct(w http.ResponseWriter, r *http.Request) {
 
 //BuySomeProduct page
 func BuySomeProduct(w http.ResponseWriter, r *http.Request) {
+	_, user := logincode.GetUserName(r, name)
 	logcode.LogW("BuySomeProduct")
 	reqBody, _ := ioutil.ReadAll(r.Body)
 	logcode.LogW(string(reqBody))
 	buydata := jscode.BuyProductData(reqBody)
 	jscode.UpdateAmount(buydata.InPid, buydata.InAmount)
+	currentTime := time.Now()
+	productid := currentTime.Format("2006010215-04_05")
+	JSTittle := "hist/trx_" + productid + ".json"
+	dbcode.InsTrxProduct(buydata, user, productid)
+	jscode.MakeHistTrx(buydata, user, JSTittle)
 }
 
 //LoginHandler fo login
@@ -264,10 +272,34 @@ func ListProductPage(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
+//ListTrxPage fo login
+func ListTrxPage(w http.ResponseWriter, r *http.Request) {
+	userName, user := logincode.GetUserName(r, name)
+	if userName == true {
+		result := dbcode.QueryTrxByID(user)
+		Product := strcode.HistPage{TrxProduct: result}
+		Product.UsernameInfo.Username = user
+		var filepath = path.Join("views", "trxlist.html")
+		var tmpl, err = template.ParseFiles(filepath)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+			return
+		}
+		err = tmpl.Execute(w, Product)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+		}
+	} else {
+		http.Redirect(w, r, "/login", 302)
+	}
+}
+
 //EditProduct page
 func EditProduct(w http.ResponseWriter, r *http.Request) {
 	reqBody, _ := ioutil.ReadAll(r.Body)
-	logcode.LogW(string("GetProductByID"))
+	logcode.LogW(string("EditProduct"))
 	logcode.LogW(string(reqBody))
 	data := jscode.EditProductData(reqBody)
 	jscode.UpdateProduct(data)
@@ -297,4 +329,143 @@ func SignUpVal(w http.ResponseWriter, r *http.Request) {
 	out, _ := json.Marshal(Articles)
 	logcode.LogW(string(out))
 	json.NewEncoder(w).Encode(Articles)
+}
+
+//ChatPage fo login
+func ChatPage(w http.ResponseWriter, r *http.Request) {
+	userName, user := logincode.GetUserName(r, name)
+	if userName == true {
+		vars := mux.Vars(r)
+		key := vars["id"]
+		result := dbcode.QueryChatByChatID(key, user)
+		ChatList := strcode.ChatIdle{ChatProduct: result}
+		ChatList.UsernameInfo.Username = user
+		var filepath = path.Join("views", "chat.html")
+		var tmpl, err = template.ParseFiles(filepath)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+			return
+		}
+		err = tmpl.Execute(w, ChatList)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+		}
+	} else {
+		http.Redirect(w, r, "/login", 302)
+	}
+}
+
+//ChatPageIdle fo login
+func ChatPageIdle(w http.ResponseWriter, r *http.Request) {
+	userName, user := logincode.GetUserName(r, name)
+	if userName == true {
+		result := dbcode.QueryChatByID(user)
+		Product := strcode.ChatIdle{ChatProduct: result}
+		Product.UsernameInfo.Username = user
+		var filepath = path.Join("views", "chatidle.html")
+		var tmpl, err = template.ParseFiles(filepath)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+			return
+		}
+		err = tmpl.Execute(w, Product)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			logcode.LogE(err)
+		}
+	} else {
+		http.Redirect(w, r, "/login", 302)
+	}
+}
+
+//CreateChat page
+func CreateChat(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("CreateChat"))
+	logcode.LogW(string(reqBody))
+	data := jscode.ChatData(reqBody)
+	currentTime := time.Now()
+	productid := currentTime.Format("200601021504-05")
+	user1 := data.User1
+	user2 := data.User2
+	chatid := user1[0:3] + "_" + user2[0:3] + "_" + productid
+	dbcode.InsChatProduct(chatid, user1, user2, "")
+	response := strcode.Content{Message: chatid}
+	json.NewEncoder(w).Encode(response)
+}
+
+//GetChatByID func
+func GetChatByID(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("GetChatByID"))
+	logcode.LogW(string(reqBody))
+	data := jscode.SignUpData(reqBody)
+	result := dbcode.QueryChatByID(data.Username)
+	ChatList := strcode.ChatIdle{ChatProduct: result}
+	ChatList.UsernameInfo.Username = data.Username
+	json.NewEncoder(w).Encode(ChatList)
+}
+
+//QueryChatByChatID fo login
+func QueryChatByChatID(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("QueryChatByChatID"))
+	logcode.LogW(string(reqBody))
+	data := jscode.ChatData(reqBody)
+	chatid := data.ChatID
+	user := data.User1
+	result := dbcode.QueryChatByChatID(chatid, user)
+	ChatList := strcode.ChatIdle{ChatProduct: result}
+	ChatList.UsernameInfo.Username = user
+	json.NewEncoder(w).Encode(result)
+}
+
+//ChatVal fo login
+func ChatVal(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("ChatVal"))
+	logcode.LogW(string(reqBody))
+	data := jscode.ChatData(reqBody)
+	chatid := data.ChatID
+	tittle := "txtfile/" + chatid + ".txt"
+	fileexists := txtcode.FileExist(tittle)
+	var msg string
+	if fileexists == true {
+		msg = "0000"
+	} else {
+		msg = "0001"
+	}
+	response := strcode.Response{ErrorCode: msg}
+	json.NewEncoder(w).Encode(response)
+}
+
+//ChatGet fo login
+func ChatGet(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("ChatVal"))
+	logcode.LogW(string(reqBody))
+	data := jscode.ChatData(reqBody)
+	chatid := data.ChatID
+	file := txtcode.ReadFile(chatid)
+	response := strcode.Content{Message: file}
+	json.NewEncoder(w).Encode(response)
+}
+
+//GetChatVal page
+func GetChatVal(w http.ResponseWriter, r *http.Request) {
+	reqBody, _ := ioutil.ReadAll(r.Body)
+	logcode.LogW(string("GetChatVal"))
+	logcode.LogW(string(reqBody))
+	data := jscode.ChatData(reqBody)
+	user1 := data.User1
+	user2 := data.User2
+	responseDb := dbcode.QueryChatExst(user1, user2)
+	response := strcode.Content{Message: responseDb}
+	if responseDb == "" {
+		response.Message = "0001"
+	}
+	json.NewEncoder(w).Encode(response)
 }

@@ -1,32 +1,3 @@
-function myFunction() {
-    var total_amount = document.getElementById("amount_buy").value;
-    var total_product = document.getElementById("amount_product").textContent;
-    if (total_product - total_amount < 0) { }
-    else {
-        var h1 = document.getElementById("buy_product").getElementsByTagName("button")[0];
-        var att = document.createAttribute("data-toggle");
-        att.value = "modal";
-        h1.setAttributeNode(att);
-        document.getElementById('total_amount').value = total_amount;
-        var tittle = document.getElementById("name_tittle").textContent;
-        document.getElementById('tittle_name').value = tittle;
-        var product_name = document.getElementById("name_product").textContent;
-        document.getElementById('product_name').value = product_name;
-        var product_category = document.getElementById("category_product").textContent;
-        document.getElementById('product_category').value = product_category;
-        var product_quality = document.getElementById("quality_product").textContent;
-        document.getElementById('product_quality').value = product_quality;
-        var product_price = document.getElementById("price_product").textContent;
-        var total_pay = product_price * total_amount;
-        var total_pay = "IDR " + total_pay;
-        document.getElementById('total_pay').value = total_pay;
-    }
-}
-
-function exitModel() {
-    var h1 = document.getElementById("buy_product").getElementsByTagName("button")[0].removeAttribute("data-toggle");
-}
-
 function loadDoc() {
     var jml = document.getElementById("trxid").getAttributeNode("total").value;
     var total_amount = document.getElementById("total_amount").value;

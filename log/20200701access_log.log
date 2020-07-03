@@ -1,0 +1,2091 @@
+##########LOGNEW##########
+2020-07-01 09:45:27.373319:HomePage
+###############
+2020-07-01 09:45:27.397252:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 09:45:27.402239:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 09:46:45.071116:HomePage
+###############
+2020-07-01 09:46:45.078098:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 09:46:45.088070:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:27:47.487882:UserLoginVal
+###############
+2020-07-01 10:27:47.498881:{"username":"papaya","password":"welcome1"}
+###############
+2020-07-01 10:27:50.311027:{"Username":"papaya","Password":"welcome1","Message":"0000"}
+###############
+2020-07-01 10:27:50.327983:LoginHandler
+###############
+2020-07-01 10:27:50.338952:{"Username":"papaya","Password":"welcome1","Message":"0000"}
+
+###############
+2020-07-01 10:27:50.411355:HomePage
+###############
+2020-07-01 10:27:50.428309:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:27:50.437284:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############
+2020-07-01 10:27:58.362099:HomePage
+###############
+2020-07-01 10:27:58.369082:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:27:58.376060:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:28:02.705340:BuyProduct
+###############
+2020-07-01 10:28:02.718843:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:30:02.937642:BuyProduct
+###############
+2020-07-01 10:30:02.947614:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:30:27.586865:BuyProduct
+###############
+2020-07-01 10:30:27.633735:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:35:19.366357:BuyProduct
+###############
+2020-07-01 10:35:19.384311:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:37:11.701150:BuyProduct
+###############
+2020-07-01 10:37:11.728077:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:38:16.480182:BuyProduct
+###############
+2020-07-01 10:38:16.486165:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:38:16.655227:CreateChat
+###############
+2020-07-01 10:38:16.668194:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:38:16.882133:CreateChat
+###############
+2020-07-01 10:38:16.889116:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:38:17.135456:CreateChat
+###############
+2020-07-01 10:38:17.149419:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:38:17.235189:CreateChat
+###############
+2020-07-01 10:38:17.244165:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:38:17.285055:CreateChat
+###############
+2020-07-01 10:38:17.293035:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:38:17.332927:CreateChat
+###############
+2020-07-01 10:38:17.338912:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:38:17.385786:CreateChat
+###############
+2020-07-01 10:38:17.393765:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:39:35.138767:BuyProduct
+###############
+2020-07-01 10:39:35.156719:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:39:35.337761:CreateChat
+###############
+2020-07-01 10:39:35.349734:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:39:35.610562:CreateChat
+###############
+2020-07-01 10:39:35.624526:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:39:35.768141:CreateChat
+###############
+2020-07-01 10:39:35.784100:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:39:35.883831:CreateChat
+###############
+2020-07-01 10:39:35.894803:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:39:35.960626:CreateChat
+###############
+2020-07-01 10:39:35.973591:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:39:36.044403:CreateChat
+###############
+2020-07-01 10:39:36.056370:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:41:24.979506:BuyProduct
+###############
+2020-07-01 10:41:24.991471:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:41:25.215873:CreateChat
+###############
+2020-07-01 10:41:25.230832:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:43:49.184451:HomePage
+###############
+2020-07-01 10:43:49.194424:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:43:49.208387:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:49:34.882783:HomePage
+###############
+2020-07-01 10:49:34.893775:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:49:34.899737:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 10:49:58.346271:BuyProduct
+###############
+2020-07-01 10:49:58.359236:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:49:58.523790:CreateChat
+###############
+2020-07-01 10:49:58.536755:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:10.160675:BuyProduct
+###############
+2020-07-01 10:50:10.168653:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:10.270383:CreateChat
+###############
+2020-07-01 10:50:10.294318:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:11.994029:BuyProduct
+###############
+2020-07-01 10:50:12.003005:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:12.167567:CreateChat
+###############
+2020-07-01 10:50:12.184519:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:14.533945:BuyProduct
+###############
+2020-07-01 10:50:14.542922:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:14.649152:CreateChat
+###############
+2020-07-01 10:50:14.670096:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:16.354480:BuyProduct
+###############
+2020-07-01 10:50:16.363455:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:16.466181:CreateChat
+###############
+2020-07-01 10:50:16.482138:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:18.014117:BuyProduct
+###############
+2020-07-01 10:50:18.028079:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:18.184660:CreateChat
+###############
+2020-07-01 10:50:18.204606:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:20.047120:BuyProduct
+###############
+2020-07-01 10:50:20.053135:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:20.153834:CreateChat
+###############
+2020-07-01 10:50:20.167798:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:22.086446:BuyProduct
+###############
+2020-07-01 10:50:22.095422:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:22.193159:CreateChat
+###############
+2020-07-01 10:50:22.215100:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:23.778765:BuyProduct
+###############
+2020-07-01 10:50:23.817659:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:24.001168:CreateChat
+###############
+2020-07-01 10:50:24.024107:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:25.551053:BuyProduct
+###############
+2020-07-01 10:50:25.582971:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:26.131005:CreateChat
+###############
+2020-07-01 10:50:26.153124:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:27.609515:BuyProduct
+###############
+2020-07-01 10:50:27.624476:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:27.954592:CreateChat
+###############
+2020-07-01 10:50:27.971546:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:44.469335:BuyProduct
+###############
+2020-07-01 10:50:44.479308:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:44.670796:CreateChat
+###############
+2020-07-01 10:50:44.711686:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:46.439556:BuyProduct
+###############
+2020-07-01 10:50:46.452521:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:46.783635:CreateChat
+###############
+2020-07-01 10:50:46.801588:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:48.258414:BuyProduct
+###############
+2020-07-01 10:50:48.267392:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:48.426241:CreateChat
+###############
+2020-07-01 10:50:48.438209:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:50.740939:BuyProduct
+###############
+2020-07-01 10:50:50.749916:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:50.904501:CreateChat
+###############
+2020-07-01 10:50:50.918464:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:51.625764:BuyProduct
+###############
+2020-07-01 10:50:51.634740:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:51.804286:CreateChat
+###############
+2020-07-01 10:50:51.821240:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:52.540867:BuyProduct
+###############
+2020-07-01 10:50:52.549843:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:52.710431:CreateChat
+###############
+2020-07-01 10:50:52.724375:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:53.473374:BuyProduct
+###############
+2020-07-01 10:50:53.481354:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:53.637704:CreateChat
+###############
+2020-07-01 10:50:53.652669:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:50:54.533739:BuyProduct
+###############
+2020-07-01 10:50:54.539754:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:50:54.689324:CreateChat
+###############
+2020-07-01 10:50:54.702302:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 10:51:10.353684:HomePage
+###############
+2020-07-01 10:51:10.365652:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 10:51:10.372632:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############
+2020-07-01 10:54:33.577755:template: chatidle.html:95:36: executing "chatidle.html" at <.ChatProduct>: can't evaluate field ChatProduct in type strcode.ProductData
+###############
+2020-07-01 10:57:14.100046:template: chatidle.html:95:36: executing "chatidle.html" at <.ChatProduct>: can't evaluate field ChatProduct in type strcode.ProductData
+###############
+2020-07-01 11:03:02.019523:HomePage
+###############
+2020-07-01 11:03:02.029990:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:03:02.037969:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:03:07.516673:HomePage
+###############
+2020-07-01 11:03:07.523651:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:03:07.532627:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:06:11.297950:HomePage
+###############
+2020-07-01 11:06:11.308920:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:06:11.314934:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:06:14.232391:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:07:32.550575:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:07:35.135354:HomePage
+###############
+2020-07-01 11:07:35.142336:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:07:35.152310:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:09:05.187087:template: chatidle.html:98:43: executing "chatidle.html" at <.Pname>: can't evaluate field Pname in type strcode.ChatProduct
+###############
+2020-07-01 11:11:19.753368:template: chatidle.html:96:56: executing "chatidle.html" at <.ChatId>: can't evaluate field ChatId in type strcode.ChatProduct
+###############
+2020-07-01 11:11:23.140067:template: chatidle.html:96:56: executing "chatidle.html" at <.Chatid>: can't evaluate field Chatid in type strcode.ChatProduct
+###############
+2020-07-01 11:20:50.119262:HomePage
+###############
+2020-07-01 11:20:50.127245:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:20:50.138216:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:38:39.826024:HomePage
+###############
+2020-07-01 11:38:39.833004:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:38:39.839985:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:51:45.146333:template: chat.html:89:37: executing "chat.html" at <.User2>: can't evaluate field User2 in type strcode.ChatIdle
+###############
+2020-07-01 11:52:03.551611:template: chat.html:89:49: executing "chat.html" at <.ChatProduct.User2>: can't evaluate field User2 in type []strcode.ChatProduct
+###############
+2020-07-01 11:53:23.393110:template: chat.html:89: unexpected bad character U+005B '[' in command
+###############
+2020-07-01 11:53:30.744036:template: chat.html:89:55: executing "chat.html" at <.ChatProduct.User2>: can't evaluate field User2 in type []strcode.ChatProduct
+###############
+2020-07-01 11:54:20.293626:HomePage
+###############
+2020-07-01 11:54:20.304597:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:54:20.311578:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 11:54:22.405117:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:54:27.694883:HomePage
+###############
+2020-07-01 11:54:27.705855:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:54:27.713864:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############
+2020-07-01 11:54:37.448606:UserLoginVal
+###############
+2020-07-01 11:54:37.456584:{"username":"watermelon","password":"welcome1"}
+###############
+2020-07-01 11:54:37.487505:{"Username":"watermelon","Password":"welcome1","Message":"0001"}
+###############
+2020-07-01 11:54:49.687492:UserLoginVal
+###############
+2020-07-01 11:54:49.699494:{"username":"pakcoy","password":"welcome1"}
+###############
+2020-07-01 11:54:49.765440:{"Username":"pakcoy","Password":"welcome1","Message":"0000"}
+###############
+2020-07-01 11:54:49.778406:LoginHandler
+###############
+2020-07-01 11:54:49.784425:{"Username":"pakcoy","Password":"welcome1","Message":"0000"}
+
+###############
+2020-07-01 11:54:49.897481:HomePage
+###############
+2020-07-01 11:54:49.906457:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:54:49.914435:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 11:54:51.097975:BuyProduct
+###############
+2020-07-01 11:54:51.109942:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:54:51.218652:CreateChat
+###############
+2020-07-01 11:54:51.235607:{"User1":"pakcoy","User2":"banana"}
+###############
+2020-07-01 11:54:57.597562:HomePage
+###############
+2020-07-01 11:54:57.608532:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:54:57.616513:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 11:55:01.718654:HomePage
+###############
+2020-07-01 11:55:01.730621:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:55:01.735638:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 11:55:09.449180:HomePage
+###############
+2020-07-01 11:55:09.460207:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 11:55:09.466192:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 13:08:19.596097:HomePage
+###############
+2020-07-01 13:08:19.608063:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 13:08:19.616041:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 13:14:18.743857:HomePage
+###############
+2020-07-01 13:14:18.756823:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 13:14:18.764833:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 13:14:20.485012:BuyProduct
+###############
+2020-07-01 13:14:20.491992:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 13:14:20.702430:CreateChat
+###############
+2020-07-01 13:14:20.708415:{"User1":"banana","User2":"banana"}
+###############
+2020-07-01 13:30:42.049531:HomePage
+###############
+2020-07-01 13:30:42.068485:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 13:30:42.081447:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 13:31:01.273655:ChatVal
+###############
+2020-07-01 13:31:01.289627:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:31:01.317540:ChatVal
+###############
+2020-07-01 13:31:01.323522:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:31:23.741100:UserLoginVal
+###############
+2020-07-01 13:31:23.751074:{"username":"pakcoy","password":"welcome1"}
+###############
+2020-07-01 13:31:23.823186:{"Username":"pakcoy","Password":"welcome1","Message":"0000"}
+###############
+2020-07-01 13:31:23.839143:LoginHandler
+###############
+2020-07-01 13:31:23.845159:{"Username":"pakcoy","Password":"welcome1","Message":"0000"}
+
+###############
+2020-07-01 13:31:23.910950:HomePage
+###############
+2020-07-01 13:31:23.919927:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 13:31:23.926908:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 13:31:27.021834:ChatVal
+###############
+2020-07-01 13:31:27.052755:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:31:27.069706:ChatVal
+###############
+2020-07-01 13:31:27.077685:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:35:14.940828:ChatVal
+###############
+2020-07-01 13:35:14.952796:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:35:14.972743:ChatVal
+###############
+2020-07-01 13:35:14.978727:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:36:24.630776:ChatVal
+###############
+2020-07-01 13:36:24.644738:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:36:24.661695:ChatVal
+###############
+2020-07-01 13:36:24.669681:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:36:34.278255:ChatVal
+###############
+2020-07-01 13:36:34.288249:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:36:34.308173:ChatVal
+###############
+2020-07-01 13:36:34.314158:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:37:07.997135:ChatVal
+###############
+2020-07-01 13:37:08.010100:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:37:08.031046:ChatVal
+###############
+2020-07-01 13:37:08.037027:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:42:52.631720:ChatVal
+###############
+2020-07-01 13:42:52.641693:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:42:52.672610:ChatVal
+###############
+2020-07-01 13:42:52.682584:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:43:53.891957:ChatVal
+###############
+2020-07-01 13:43:53.906916:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:43:53.955786:ChatVal
+###############
+2020-07-01 13:43:53.969748:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:45:21.515332:ChatVal
+###############
+2020-07-01 13:45:21.532287:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:45:21.587657:ChatVal
+###############
+2020-07-01 13:45:21.599627:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:45:56.339154:ChatVal
+###############
+2020-07-01 13:45:56.361096:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:45:56.388024:ChatVal
+###############
+2020-07-01 13:45:56.400990:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:46:12.811819:ChatVal
+###############
+2020-07-01 13:46:12.834739:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:46:12.900130:ChatVal
+###############
+2020-07-01 13:46:12.917086:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:17.994919:ChatVal
+###############
+2020-07-01 13:47:18.011873:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:18.087671:ChatVal
+###############
+2020-07-01 13:47:18.100635:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:30.543530:ChatVal
+###############
+2020-07-01 13:47:30.561481:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:30.602371:ChatVal
+###############
+2020-07-01 13:47:30.620839:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:32.244064:ChatVal
+###############
+2020-07-01 13:47:32.278969:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:32.327841:ChatVal
+###############
+2020-07-01 13:47:32.340805:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:33.038833:ChatVal
+###############
+2020-07-01 13:47:33.068758:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:47:33.090695:ChatVal
+###############
+2020-07-01 13:47:33.101664:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:48:06.709219:ChatVal
+###############
+2020-07-01 13:48:06.730165:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:48:06.765071:ChatVal
+###############
+2020-07-01 13:48:06.778036:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:51:30.581027:ChatVal
+###############
+2020-07-01 13:51:30.592994:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:51:30.635879:ChatVal
+###############
+2020-07-01 13:51:30.644857:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:52:20.431612:ChatVal
+###############
+2020-07-01 13:52:20.458540:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:52:20.493447:ChatVal
+###############
+2020-07-01 13:52:20.504417:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:52:42.546458:ChatVal
+###############
+2020-07-01 13:52:42.566389:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:52:42.614803:ChatVal
+###############
+2020-07-01 13:52:42.629764:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:53:41.478809:ChatVal
+###############
+2020-07-01 13:53:41.498756:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:53:41.536655:ChatVal
+###############
+2020-07-01 13:53:41.550620:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:54:47.174205:ChatVal
+###############
+2020-07-01 13:54:47.198135:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:54:47.232044:ChatVal
+###############
+2020-07-01 13:54:47.247017:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:57:43.148245:ChatVal
+###############
+2020-07-01 13:57:43.164204:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:57:43.218058:ChatVal
+###############
+2020-07-01 13:57:43.230028:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:58:47.563256:ChatVal
+###############
+2020-07-01 13:58:47.591182:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:58:47.654013:ChatVal
+###############
+2020-07-01 13:58:47.669970:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:58:57.322964:ChatVal
+###############
+2020-07-01 13:58:57.348463:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:58:57.373395:ChatVal
+###############
+2020-07-01 13:58:57.386359:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:59:56.951062:ChatVal
+###############
+2020-07-01 13:59:56.979983:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 13:59:57.003921:ChatVal
+###############
+2020-07-01 13:59:57.011899:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:00:33.792104:template: chat.html:106:46: executing "chat.html" at <.No>: can't evaluate field No in type strcode.ChatIdle
+###############
+2020-07-01 14:00:47.725940:template: chat.html:106:46: executing "chat.html" at <.No>: can't evaluate field No in type strcode.ChatIdle
+###############
+2020-07-01 14:00:56.494540:ChatVal
+###############
+2020-07-01 14:00:56.514488:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:00:56.564354:ChatVal
+###############
+2020-07-01 14:00:56.579317:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:02:06.017612:ChatVal
+###############
+2020-07-01 14:02:06.049526:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:02:06.070470:ChatVal
+###############
+2020-07-01 14:02:06.081441:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:03:42.058817:ChatVal
+###############
+2020-07-01 14:03:42.074775:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:03:42.101703:ChatVal
+###############
+2020-07-01 14:03:42.109680:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:06:10.813273:ChatVal
+###############
+2020-07-01 14:06:10.826239:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:06:10.843194:ChatVal
+###############
+2020-07-01 14:06:10.850175:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:07:45.425272:ChatVal
+###############
+2020-07-01 14:07:45.437342:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:07:45.603410:ChatVal
+###############
+2020-07-01 14:07:45.616376:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:07:57.151635:ChatVal
+###############
+2020-07-01 14:07:57.162606:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:07:57.308216:ChatVal
+###############
+2020-07-01 14:07:57.322179:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:08:00.704642:ChatVal
+###############
+2020-07-01 14:08:00.717609:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:08:00.860230:ChatVal
+###############
+2020-07-01 14:08:00.873195:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:08:46.097271:ChatVal
+###############
+2020-07-01 14:08:46.112230:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:08:46.137702:ChatVal
+###############
+2020-07-01 14:08:46.143685:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:08:51.714533:ChatVal
+###############
+2020-07-01 14:08:51.728496:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:08:51.756478:ChatVal
+###############
+2020-07-01 14:08:51.763458:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:09:13.443072:ChatVal
+###############
+2020-07-01 14:09:13.451049:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:09:13.478993:ChatVal
+###############
+2020-07-01 14:09:13.489946:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:09:46.846411:ChatVal
+###############
+2020-07-01 14:09:46.853393:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:09:46.896277:ChatVal
+###############
+2020-07-01 14:09:46.907258:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:09:56.327801:ChatVal
+###############
+2020-07-01 14:09:56.337775:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:09:56.377670:ChatVal
+###############
+2020-07-01 14:09:56.385647:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:10:23.252180:ChatVal
+###############
+2020-07-01 14:10:23.262152:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:10:23.286088:ChatVal
+###############
+2020-07-01 14:10:23.296571:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:11:06.050460:ChatVal
+###############
+2020-07-01 14:11:06.057442:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:11:06.080380:ChatVal
+###############
+2020-07-01 14:11:06.089357:{"ChatID":"pak_ban_202007011154-51"}
+###############
+2020-07-01 14:11:08.268936:HomePage
+###############
+2020-07-01 14:11:08.281903:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:11:08.290906:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 14:11:14.619901:HomePage
+###############
+2020-07-01 14:11:14.630867:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:11:14.639844:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 14:11:21.490665:HomePage
+###############
+2020-07-01 14:11:21.503631:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:11:21.513604:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 14:11:24.692331:HomePage
+###############
+2020-07-01 14:11:24.704300:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:11:24.714273:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 14:11:25.884296:BuyProduct
+###############
+2020-07-01 14:11:25.893271:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:11:25.994005:CreateChat
+###############
+2020-07-01 14:11:26.016944:{"User1":"pakcoy","User2":"banana"}
+###############
+2020-07-01 14:11:29.919459:HomePage
+###############
+2020-07-01 14:11:29.929432:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:11:29.938433:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"pakcoy","password":""}}
+###############
+2020-07-01 14:11:32.967031:ChatVal
+###############
+2020-07-01 14:11:32.993957:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:11:43.869896:ChatVal
+###############
+2020-07-01 14:11:43.878870:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:11:43.900813:ChatVal
+###############
+2020-07-01 14:11:43.907793:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:13:26.835368:ChatVal
+###############
+2020-07-01 14:13:26.854341:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:13:26.918148:ChatVal
+###############
+2020-07-01 14:13:26.932110:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:13:31.343667:ChatVal
+###############
+2020-07-01 14:13:31.368600:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:13:31.390542:ChatVal
+###############
+2020-07-01 14:13:31.396524:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:14:41.653559:ChatVal
+###############
+2020-07-01 14:14:41.670512:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:14:41.730380:ChatVal
+###############
+2020-07-01 14:14:41.740350:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:15:40.692959:ChatVal
+###############
+2020-07-01 14:15:40.718890:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:15:40.755791:ChatVal
+###############
+2020-07-01 14:15:40.771750:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:16:17.835453:ChatVal
+###############
+2020-07-01 14:16:17.846423:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:16:17.870361:ChatVal
+###############
+2020-07-01 14:16:17.878338:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:17:39.195333:ChatVal
+###############
+2020-07-01 14:17:39.208299:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:17:39.228774:ChatVal
+###############
+2020-07-01 14:17:39.235755:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:20:04.941290:ChatVal
+###############
+2020-07-01 14:20:04.955252:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:20:04.974201:ChatVal
+###############
+2020-07-01 14:20:04.984175:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:20:14.357270:ChatVal
+###############
+2020-07-01 14:20:14.387184:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:20:14.421092:ChatVal
+###############
+2020-07-01 14:20:14.429070:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:20:20.907057:ChatVal
+###############
+2020-07-01 14:20:20.920022:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:20:20.951937:ChatVal
+###############
+2020-07-01 14:20:20.960912:{"ChatID":"pak_ban_202007011411-26"}
+###############
+2020-07-01 14:22:16.313114:HomePage
+###############
+2020-07-01 14:22:16.326079:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 14:22:16.334057:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 15:00:33.954376:HomePage
+###############
+2020-07-01 15:00:33.965373:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:00:33.972327:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 15:00:37.038592:BuyProduct
+###############
+2020-07-01 15:00:37.049564:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:00:37.237145:CreateChat
+###############
+2020-07-01 15:00:37.247140:{"User1":"banana","User2":"banana"}
+###############
+2020-07-01 15:00:37.706476:ChatVal
+###############
+2020-07-01 15:00:37.721435:{"ChatID":"ban_ban_202007011500-37"}
+###############
+2020-07-01 15:00:47.059792:HomePage
+###############
+2020-07-01 15:00:47.070761:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:00:47.077742:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 15:00:49.036242:BuyProduct
+###############
+2020-07-01 15:00:49.046218:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:00:49.237779:CreateChat
+###############
+2020-07-01 15:00:49.243797:{"User1":"banana","User2":"banana"}
+###############
+2020-07-01 15:00:49.488109:ChatVal
+###############
+2020-07-01 15:00:49.511047:{"ChatID":"ban_ban_202007011500-49"}
+###############
+2020-07-01 15:01:27.694683:ChatVal
+###############
+2020-07-01 15:01:27.741563:{"ChatID":"ban_ban_202007011500-49"}
+###############
+2020-07-01 15:01:29.520773:HomePage
+###############
+2020-07-01 15:01:29.529749:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:01:29.539722:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 15:01:31.385466:BuyProduct
+###############
+2020-07-01 15:01:31.394444:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:01:35.003125:CreateChat
+###############
+2020-07-01 15:01:35.012100:{"User1":"banana","User2":"banana"}
+###############
+2020-07-01 15:01:35.340507:ChatVal
+###############
+2020-07-01 15:01:35.348485:{"ChatID":"ban_ban_202007011501-35"}
+###############
+2020-07-01 15:01:50.663616:ChatVal
+###############
+2020-07-01 15:01:50.689546:{"ChatID":"202007011501-35"}
+###############
+2020-07-01 15:01:53.674626:HomePage
+###############
+2020-07-01 15:01:53.682606:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:01:53.690614:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-07-01 15:01:57.664483:ChatVal
+###############
+2020-07-01 15:01:57.696399:{"ChatID":"ban_ban_202007011501-35"}
+###############
+2020-07-01 15:02:17.871987:UserLoginVal
+###############
+2020-07-01 15:02:17.882959:{"username":"papaya","password":"welcome1"}
+###############
+2020-07-01 15:02:17.942799:{"Username":"papaya","Password":"welcome1","Message":"0000"}
+###############
+2020-07-01 15:02:17.955763:LoginHandler
+###############
+2020-07-01 15:02:17.963750:{"Username":"papaya","Password":"welcome1","Message":"0000"}
+
+###############
+2020-07-01 15:02:18.060212:HomePage
+###############
+2020-07-01 15:02:18.067192:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:02:18.078166:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"2 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############
+2020-07-01 15:02:20.080718:BuyProduct
+###############
+2020-07-01 15:02:20.091716:result read : {
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}
+###############
+2020-07-01 15:02:21.877347:CreateChat
+###############
+2020-07-01 15:02:21.890314:{"User1":"papaya","User2":"banana"}
+###############
+2020-07-01 15:02:22.092351:ChatVal
+###############
+2020-07-01 15:02:22.127258:{"ChatID":"pap_ban_202007011502-21"}
+###############

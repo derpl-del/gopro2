@@ -12,7 +12,7 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/album/">
 
     <!-- Bootstrap core CSS -->
-    <link href="envstyle/assets/dist/css/bootstrap.css" rel="stylesheet">
+    <link href="../envstyle/assets/dist/css/bootstrap.css" rel="stylesheet">
 
     <style>
         .bd-placeholder-img {
@@ -31,13 +31,14 @@
         }
     </style>
     <!-- Custom styles for this template -->
-    <link href="envstyle/style.css" rel="stylesheet">
+    <link href="../envstyle/style.css" rel="stylesheet">
 </head>
 
 <body>
-    <script src="envstyle/envcode.js"></script>
-    <script src="envstyle/jquery-3.5.1.js"></script>
-    <script src="envstyle/show.js"></script>
+    <script src="../envstyle/envcode.js"></script>
+    <script src="../envstyle/jquery-3.5.1.js"></script>
+    <script src="../envstyle/show.js"></script>
+    <script src="../envstyle/chatidle.js"></script>
     <header>
         <div class="navbar navbar-dark bg-dark shadow-sm">
             <div class="container d-flex justify-content-between">
@@ -88,55 +89,38 @@
             </div>
         </section>
         <div class="container pt-3">
-            <div class="row">
-                <div class="col">
+            <div class="row" style="height:80vh;">
+                <div class="col-4 overflow-auto" style="height: 98%">
+                    <table class="table">
+                        <tbody id="tbody" sen="{{.UsernameInfo.Username}}">
+                            {{range .ChatProduct}}
+                            <tr id="row-{{.No}}" type="button" chatid="{{.ChatID}}">
+                                <th scope="row">
+                                    <div>{{.User2}}</div>
+                                </th>
+                            </tr>
+                            {{end}}
+                        </tbody>
+                    </table>
                 </div>
+                <div id="chat-menu" class="col-8" style="height: 98%;overflow: auto;">
+                    <div class="row">
+                        <table id="menu" room-id="" class="table" style="height: 98%;">
+                            <tbody id="tbody1">
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-4"></div>
                 <div class="col-8">
-                    <form action="/add_product" method="post" enctype="multipart/form-data">
-                        <div class="form-group">
-                            <label for="tittle">Tittle :</label>
-                            <input type="text" class="form-control" id="tittle" name="tittle" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="name">Product name :</label>
-                            <input type="text" class="form-control" id="name" name="name" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="price">Price product :</label>
-                            <input type="text" class="form-control" id="price" name="price" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="amount">Amount product:</label>
-                            <input type="text" class="form-control" id="amount" name="amount" required>
-                        </div>
-                        <div class="form-group">
-                            <label for="quality">Quality product:</label>
-                            <select multiple class="form-control" id="quality" name="quality" required>
-                                <option>1</option>
-                                <option>2</option>
-                                <option>3</option>
-                                <option>4</option>
-                                <option>5</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="category">Category product :</label>
-                            <select class="form-control" id="category" name="category" required>
-                                <option>Fruit</option>
-                                <option>Vegetable</option>
-                            </select>
-                        </div>
-                        <div class="form-group">
-                            <label for="myFile">Upload Photo</label>
-                            <input type="file" class="form-control-file" name="myFile" id="myFile">
-                        </div>
-                        <button type="submit" class="btn btn-primary">Submit</button>
-                    </form>
-                </div>
-                <div class="col">
+                    <div class="row" style="height:20%">
+                        <form id="form" sen="{{.UsernameInfo.Username}}" rec="">
+                            <input type="text" id="msg" size="64" autofocus />
+                            <input type="submit" value="Send" />
+                        </form>
+                    </div>
                 </div>
             </div>
-
         </div>
     </main>
 
@@ -148,7 +132,7 @@
         </div>
     </footer>
     <script>window.jQuery || document.write('<script src="envstyle/assets/js/vendor/jquery.slim.min.js"><\/script>')</script>
-    <script src="envstyle/assets/dist/js/bootstrap.bundle.js"></script>
+    <script src="../envstyle/assets/dist/js/bootstrap.bundle.js"></script>
 </body>
 
 </html>

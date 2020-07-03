@@ -1,0 +1,39 @@
+##########LOGNEW##########
+2020-06-30 13:18:37.918461:HomePage
+###############
+2020-06-30 13:18:37.949378:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 13:18:37.958354:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"1 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############
+2020-06-30 13:18:53.600416:template: chat.html:51:39: executing "chat.html" at <.UsernameInfo.Username>: can't evaluate field UsernameInfo in type string
+###############
+2020-06-30 13:20:59.407282:HomePage
+###############
+2020-06-30 13:20:59.420246:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 13:20:59.426232:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"1 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############
+2020-06-30 14:28:44.050512:ProductPage
+###############
+2020-06-30 14:30:22.144346:HomePage
+###############
+2020-06-30 14:30:22.155315:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 14:30:22.161300:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"1 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 14:30:26.020012:BuyProduct
+###############
+2020-06-30 14:30:26.025997:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 17:15:54.647853:HomePage
+###############
+2020-06-30 17:15:54.657827:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 17:15:54.664807:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"1 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 18:10:42.948615:HomePage
+###############
+2020-06-30 18:10:42.969559:result read : {"No":0,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}
+###############
+2020-06-30 18:10:42.978536:{"ListProduct":[{"No":1,"Pid":"202006291221-36","Powner":"banana","Tittle":"Sweet Banana","Pname":"Banana","Pprice":1000,"Pamount":96,"Pquality":"3","Pcategory":"Fruit","Ptime":"1 days","PCreateDate":"2020-06-29 12:21:36","PLastUpdate":"2020-06-29 14:07:52","UsernameInfo":{"username":"banana","password":""}}],"UsernameInfo":{"username":"papaya","password":""}}
+###############

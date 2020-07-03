@@ -1,0 +1,18 @@
+{
+    "No": 0,
+    "Pid": "202006291221-36",
+    "Powner": "banana",
+    "Tittle": "Sweet Banana",
+    "Pname": "Banana",
+    "Pprice": 1000,
+    "Pamount": 96,
+    "Pquality": "3",
+    "Pcategory": "Fruit",
+    "Ptime": "",
+    "PCreateDate": "2020-06-29 12:21:36",
+    "PLastUpdate": "2020-06-29 14:07:52",
+    "UsernameInfo": {
+        "username": "banana",
+        "password": ""
+    }
+}

@@ -26,6 +26,19 @@ func MakeProductData(input strcode.ProductData) {
 	}
 }
 
+//MakeHistTrx JSON
+func MakeHistTrx(input strcode.BuyProduct, buyer string, tittle string) {
+	data := strcode.HistTrx{Data: input, Owner: input.InOwner, Buyer: buyer}
+	out, _ := json.Marshal(data)
+	logcode.LogW(string(out))
+	err := ioutil.WriteFile(tittle, out, 0777)
+	if err != nil {
+		// print it out
+		fmt.Println(err)
+		logcode.LogE(err)
+	}
+}
+
 //GetProductData JSON
 func GetProductData(input string) strcode.ProductData {
 	JSTittle := "product_list/" + input
@@ -96,6 +109,13 @@ func SignUpData(input []byte) strcode.UsernameInfo {
 //UserInfoData JSON
 func UserInfoData(input []byte) strcode.UsernameInfo {
 	var struct1 strcode.UsernameInfo
+	json.Unmarshal(input, &struct1)
+	return struct1
+}
+
+//ChatData JSON
+func ChatData(input []byte) strcode.ChatProduct {
+	var struct1 strcode.ChatProduct
 	json.Unmarshal(input, &struct1)
 	return struct1
 }
